@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background-image: url(/kepek/hatter.jpg);
+    max-width: 1000px;
+}
+
+
+header{
+    grid-area: h;
+    background-image: url(/kepek/fejlec.jpg);
+
+}
+nav{
+    grid-area: n;
+}
+article{
+    grid-area: a;
+}
+.article{
+    width: auto;
+}
+aside{
+    grid-area: as;
+}
+footer{
+    grid-area: f;
+    background-color: rgb(59, 182, 231);
+    
+}
+
+main{
+    
+
+    margin: auto;
+    display: grid;
+    background-color: rgb(221, 254, 255);
+    grid-template-columns: 1fr 3fr 2fr;
+    grid-template-areas: 
+    "h h h"
+    "n a as"
+    "f f f"
+    ;
+}
+nav ul{
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 30px;
+
+}
+nav li{
+    list-style: none;
+    border: 1 px solid lightblue;
+    border-radius: 80px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgb(59, 182, 231);
+    color: aliceblue;
+}
+nav a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.responsivetablazat{
+    overflow-x: auto;
+}
+tbody tr:nth-child(odd){
+    background-color: rgb(59, 182, 231);
+}
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    min-width: 300px;
+}
+
+@media  screen and (max-width: 700px) {
+    nav ul{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    main{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "h"
+        "n"
+        "a"
+        "as"
+        "f"
+        ;
+    }
+    
+}
