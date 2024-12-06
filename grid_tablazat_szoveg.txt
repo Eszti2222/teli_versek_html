@@ -8,19 +8,19 @@ A képek formázásának módja a W3scool box-shadow property példáinál talá
 
 
 Ady Endre: A téli Magyarország
-Magyar síkon nagy iramban át
-Ha nyargal a gőzös velem
-Havas, nagy téli éjjelen,
-Alusznak a tanyák.
-Olyan fehér és árva a sík,
-Fölötte álom-éneket
-Dúdolnak a hideg szelek.
-Vajon mit álmodik?
-Álmodik-e, álma még maradt?
-Én most karácsonyra megyek,
-Régi, vén, falusi gyerek.
-De lelkem hó alatt.
-S ahogy futok síkon, telen át,
-Úgy érzem, halottak vagyunk
-És álom nélkül álmodunk,
-Én s a magyar tanyák.
+Magyar síkon nagy iramban át<br>
+Ha nyargal a gőzös velem<br>
+Havas, nagy téli éjjelen,<br>
+Alusznak a tanyák.<br>
+Olyan fehér és árva a sík,<br>
+Fölötte álom-éneket<br>
+Dúdolnak a hideg szelek.<br>
+Vajon mit álmodik?<br>
+Álmodik-e, álma még maradt?<br>
+Én most karácsonyra megyek,<br>
+Régi, vén, falusi gyerek.<br>
+De lelkem hó alatt.<br>
+S ahogy futok síkon, telen át,<br>
+Úgy érzem, halottak vagyunk<br>
+És álom nélkül álmodunk,<br>
+Én s a magyar tanyák.<br>
